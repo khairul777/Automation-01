@@ -11,5 +11,10 @@ public class khai
 	{
 		System.out.println("hello");
 	}
+	
+	public void print2()
+	{
+		System.out.println("helfogiofd");
+	}
 
 }
