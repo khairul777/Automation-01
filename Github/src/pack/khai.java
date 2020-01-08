@@ -6,5 +6,10 @@ public class khai
 	{
 		System.out.println("hello");
 	}
+	
+	public void print1()
+	{
+		System.out.println("hello");
+	}
 
 }
